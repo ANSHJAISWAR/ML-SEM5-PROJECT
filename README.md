@@ -36,3 +36,24 @@ A simple **Streamlit** web app allows users to input job details and instantly v
 ---
 
 ## Project Structure
+AI-Job-Salary-Prediction/
+│
+├── README.md
+├── requirements.txt
+├── data/
+│ ├── raw/
+│ └── processed/
+├── notebooks/
+│ └── AIPROJECT-checkpoint.ipynb
+├── models/
+│ └── salary_prediction_model.pkl
+├── app/
+│ └── app.py
+├── src/
+│ ├── preprocessing.py
+│ ├── training.py
+│ └── utils.py
+├── reports/
+│ ├── Project_Report.pdf
+│ └── Presentation.pptx
+└── visuals/
