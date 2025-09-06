@@ -57,3 +57,34 @@ AI-Job-Salary-Prediction/
 │ ├── Project_Report.pdf
 │ └── Presentation.pptx
 └── visuals/
+Model & Data
+
+Algorithm(s): Linear Regression, Random Forest (final model tuned & saved with Joblib)
+
+Input Features: job title, experience, company size, industry, skills, remote ratio, etc.
+
+Target: salary in USD
+
+Results
+
+R² Score: 0.96 (test set)
+
+RMSE: 11,000 USD
+
+Predictions shown in both USD and INR.
+
+Screenshots
+Web App	Salary Prediction
+
+	
+Future Work
+
+Model improvements (try XGBoost, deep learning).
+
+Cloud deployment (Streamlit Cloud, AWS, etc.).
+
+Add more granular skill embeddings & market trends.
+
+License
+
+MIT License © 2025 [ANSHJAISWAR]
