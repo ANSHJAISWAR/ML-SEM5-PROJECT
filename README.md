@@ -21,9 +21,7 @@ Predict salaries for AI / Tech jobs based on job details such as title, experien
 ## Overview
 This project uses **Machine Learning** (Scikit-Learn) to estimate job salaries.  
 A simple **Streamlit** web app allows users to input job details and instantly view predicted salaries (USD & INR).
-![App Screenshot](Screenshot 2025-09-07 233243.png)
-![App Screenshot](Screenshot 2025-09-07 233333.png)
-![App Screenshot](Screenshot 2025-09-07 233403.png)
+
 
 ---
 
@@ -77,6 +75,9 @@ Predictions shown in both USD and INR.
 
 Screenshots
 Web App	Salary Prediction
+![App Screenshot]( "Screenshot 2025-09-07 233243.png")
+![App Screenshot]( "Screenshot 2025-09-07 233333.png")
+![App Screenshot]( "Screenshot 2025-09-07 233403.png")
 
 	
 Future Work
