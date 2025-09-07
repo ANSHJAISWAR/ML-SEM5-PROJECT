@@ -66,9 +66,9 @@ Target: salary in USD
 
 Results
 
-R² Score: 0.84 (test set)
+R² Score: 0.96 (test set)
 
-RMSE: 23,000 USD
+RMSE: 11,000 USD
 
 Predictions shown in both USD and INR.
 
