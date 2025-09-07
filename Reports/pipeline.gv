@@ -1,0 +1,20 @@
+digraph "AI Salary Prediction Pipeline" {
+    rankdir=LR;
+    size="10,5";
+
+    CSV   [label="CSV Dataset\n(ai_job_dataset.csv)", shape=box, style=filled, fillcolor="#cce5ff"];
+    EDA   [label="Data Exploration & Cleaning\n(Pandas, Seaborn)", shape=box, style=filled, fillcolor="#d5f5e3"];
+    PREP  [label="Preprocessing\n- One-Hot Encode\n- Standard Scale", shape=box, style=filled, fillcolor="#f9e79f"];
+    LR    [label="Linear Regression\n(sklearn)", shape=box, style=filled, fillcolor="#fadbd8"];
+    RF    [label="Random Forest Regressor\n(sklearn)", shape=box, style=filled, fillcolor="#f5b7b1"];
+    EVAL  [label="Evaluation\n(R², RMSE)", shape=box, style=filled, fillcolor="#d7bde2"];
+    MODEL [label="Save Model (joblib)\nPredict New Salary", shape=box, style=filled, fillcolor="#f8c471"];
+
+    CSV  -> EDA;
+    EDA  -> PREP;
+    PREP -> LR;
+    PREP -> RF;
+    LR   -> EVAL;
+    RF   -> EVAL;
+    EVAL -> MODEL;
+}
