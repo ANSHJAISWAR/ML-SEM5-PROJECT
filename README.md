@@ -45,9 +45,8 @@ AI-Job-Salary-Prediction/
 │ └── processed/
 ├── notebooks/
 │ └── AIPROJECT-checkpoint.ipynb
-├── models/
+├── salary_app/
 │ └── salary_prediction_model.pkl
-├── app/
 │ └── app.py
 ├── src/
 │ ├── preprocessing.py
@@ -57,6 +56,14 @@ AI-Job-Salary-Prediction/
 │ ├── Project_Report.pdf
 │ └── Presentation.pptx
 └── visuals/
+
+
+
+
+
+
+
+
 Model & Data
 
 Algorithm(s): Linear Regression, Random Forest (final model tuned & saved with Joblib)
