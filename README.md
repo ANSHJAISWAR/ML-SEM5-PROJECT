@@ -35,7 +35,9 @@ A simple **Streamlit** web app allows users to input job details and instantly v
 ---
 
 ## Project Structure
-![Project Structure](visuals/project_structure_overview.png)
+![Project Structure](visuals/StructureOverview.png)
+
+
 
 
 
@@ -60,10 +62,9 @@ Web App	Salary Prediction
 ## Screenshots  
 Web App – Salary Prediction  
 
-![App Screenshot](visuals/screenshot_233243.png)
-![App Screenshot](visuals/Screenshot_2025-09-07_233243.png)
-![App Screenshot](visuals/Screenshot_2025-09-07_233403.png)
-
+![App Screenshot](visuals/ss1.png)
+![App Screenshot](visuals/ss2.png)
+![App Screenshot](visuals/ss3.png)
 
 	
 Future Work
@@ -79,7 +80,7 @@ License
 MIT License © 2025 [ANSHJAISWAR]
 
 
-Would you also like me to prepare a clean **`requirements.txt`** so anyone cloning the repo can install everything with one command?
+
 
 
 
