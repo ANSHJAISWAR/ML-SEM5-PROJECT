@@ -75,6 +75,9 @@ Predictions shown in both USD and INR.
 
 Screenshots
 Web App	Salary Prediction
+## Screenshots  
+Web App – Salary Prediction  
+
 ![App Screenshot](visuals/screenshot_233243.png)
 ![App Screenshot](visuals/screenshot_233333.png)
 ![App Screenshot](visuals/screenshot_233403.png)
