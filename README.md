@@ -35,7 +35,7 @@ A simple **Streamlit** web app allows users to input job details and instantly v
 ---
 
 ## Project Structure
-![Project Structure](visuals/Project%20Folder%20Structure%20Overview.pngProject Folder Structure Overview.png)
+![Project Structure](visuals/project_structure_overview.png)
 
 
 
@@ -61,8 +61,8 @@ Web App	Salary Prediction
 Web App – Salary Prediction  
 
 ![App Screenshot](visuals/screenshot_233243.png)
-![App Screenshot](visuals/Screenshot%202025-09-07%20233243.pngScreenshot 2025-09-07 233243.png)
-![App Screenshot](visuals/Screenshot%202025-09-07%20233403.pngScreenshot 2025-09-07 233403.png)
+![App Screenshot](visuals/Screenshot_2025-09-07_233243.png)
+![App Screenshot](visuals/Screenshot_2025-09-07_233403.png)
 
 
 	
